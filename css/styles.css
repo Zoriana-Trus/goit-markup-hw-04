@@ -530,7 +530,7 @@
    /* Portfolio */
 
    .header{
-    border-bottom: var(--border-color-primary);
+    border-bottom:1px solid var(--border-color-primary);
    }
 
   .portfolio-section {
